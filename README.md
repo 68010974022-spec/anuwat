@@ -3,6 +3,7 @@
 
 ## อนุวัฒน์ มีชัย (Pond)
 
+🎓 Business Computer (ฺBC)
 Mahasarakham University
 
 ---
