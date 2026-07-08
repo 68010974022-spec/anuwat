@@ -32,6 +32,6 @@ Mahasarakham University
 
 ## 📫 Contact
 
-- Email : your@email.com
-- Facebook : https://facebook.com/xxxx
+- Email : 68010974022@msu.ac.th
+- Facebook : 
 - GitHub : https://github.com/username
