@@ -3,7 +3,6 @@
 
 ## อนุวัฒน์ มีชัย (Pond)
 
-🎓 Digital Business and Information Systems (DBIS)
 Mahasarakham University
 
 ---
